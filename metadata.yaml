@@ -1,0 +1,33 @@
+_repo: The-Tavern-Knight_3030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: Take a trip to the distant past with this majestic epic from Rafael Sabatini,
+  regarded as one of the masters of the historical action-adventure genre. Set in
+  the times of knights, maidens, and castles, The Tavern Knight follows the fortunes
+  of a gallant nobleman who has had his fortune and property stripped by evil agents
+  of the king. Left with nothing to call his own, he concocts a complex plot to get
+  his revenge.
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Great Britain -- History -- Charles I, 1625-1649 -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Tavern Knight
+url: http://www.gutenberg.org/ebooks/3030
