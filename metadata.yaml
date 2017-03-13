@@ -1,5 +1,8 @@
 _repo: The-Tavern-Knight_3030
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -15,6 +18,8 @@ description: Take a trip to the distant past with this majestic epic from Rafael
   of a gallant nobleman who has had his fortune and property stripped by evil agents
   of the king. Left with nothing to call his own, he concocts a complex plot to get
   his revenge.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3030#The-Tavern-Knight
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
